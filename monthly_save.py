@@ -1,5 +1,4 @@
 
-#september 22,2020
 
 #User needs to create and stick to a monthly budget. Based on their
 #input, the program will show the user if they have overspend.
